@@ -8,4 +8,10 @@ public class BasketballCoach implements Coach{
 		return "Do 100 layups";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
